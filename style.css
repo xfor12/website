@@ -1,0 +1,22 @@
+.gt {
+    display: flex;
+    flex-direction: row;
+}
+.star {
+    width: 70px;
+    height: 70px;
+    
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+body {
+    background-image: url("https://rivendell.neocities.org/backgrounds/stars2.png");
+    color: azure;
+}
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
